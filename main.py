@@ -13,15 +13,8 @@ central =central_widget()
 window.setCentralWidget(central)
 window.setWindowTitle("PDF Copy Paste Refinery")
 
-
-
-
-
-
-
-
 central.show()
 central.setWindowTitle("PDF Copy Paste Refinery")
 central.raise_()
 window.show()
-app.exec_()
+app.exec()
