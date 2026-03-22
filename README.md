@@ -1,1 +1,4 @@
 simple small window where copy from pdf click the button on  the window ,the app will remove the extra /n lines from the clipboard and when u paste it in your text app ,it will paste connected not with the extra new lines that usually plague copying from pdf
+
+main.py is redundant u can build the central_widget.py and u r fine
+
